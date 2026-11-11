@@ -1,0 +1,191 @@
+{
+  "week_start": "2026-11-09",
+  "week_end": "2026-11-15",
+  "timezone": "Europe/Lisbon",
+  "schema": "moneycoach-approved-week-v1",
+  "approval": "APPROVED",
+  "official_badges_composited": true,
+  "images": [
+    {
+      "date": "2026-11-09",
+      "language": "en",
+      "kind": "vertical",
+      "channels": [
+        "tiktok"
+      ],
+      "filename": "moneycoach_en_2026-11-09_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-09T22:15:00+00:00",
+          "utc": "2026-11-09T22:15:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "c29586c60a33f77e3117209c3a7af611fb8aed35c9f0bab3958fb5d817179d10",
+      "raw_sha256": "7aad321ce51a3a9a0ae82a05a2d990168cfa52c23dcd14979ddc9be8b74f8614"
+    },
+    {
+      "date": "2026-11-10",
+      "language": "pt",
+      "kind": "vertical",
+      "channels": [
+        "tiktok",
+        "instagram"
+      ],
+      "filename": "moneycoach_pt_2026-11-10_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-10T22:15:00+00:00",
+          "utc": "2026-11-10T22:15:00+00:00"
+        },
+        "instagram": {
+          "local": "2026-11-10T21:45:00+00:00",
+          "utc": "2026-11-10T21:45:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "779a56f401dfe518d0c8a1baa6ba7e2fe35bbe22568219afaa32e98713c3a94c",
+      "raw_sha256": "0fb672f300ea1e27d3dfe062798252b1386ecd877d6c79aa5e8ab27842535b86"
+    },
+    {
+      "date": "2026-11-10",
+      "language": "pt",
+      "kind": "x",
+      "channels": [
+        "x"
+      ],
+      "filename": "moneycoach_pt_2026-11-10_x.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "x": {
+          "local": "2026-11-10T22:35:00+00:00",
+          "utc": "2026-11-10T22:35:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "f59eb23a4cf8da605bc036e80b897c09f5ad458951cf6259f69313fcd3f3bdb9",
+      "raw_sha256": "3b82675807b329eab475d2309b09e7491e8f1523bce55f60966bfe95f20f07e6"
+    },
+    {
+      "date": "2026-11-11",
+      "language": "en",
+      "kind": "vertical",
+      "channels": [
+        "tiktok"
+      ],
+      "filename": "moneycoach_en_2026-11-11_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-11T22:15:00+00:00",
+          "utc": "2026-11-11T22:15:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "ffde045ae33a82aaa63cf68bff596d21c8c65310b9f5fbf3f941d56dc2ef0e95",
+      "raw_sha256": "e98e0de7d4e4d2c32aa46935e5a37caeff61d57131875f353fff00cb7b6fea55"
+    },
+    {
+      "date": "2026-11-12",
+      "language": "en",
+      "kind": "vertical",
+      "channels": [
+        "tiktok",
+        "instagram"
+      ],
+      "filename": "moneycoach_en_2026-11-12_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-12T22:15:00+00:00",
+          "utc": "2026-11-12T22:15:00+00:00"
+        },
+        "instagram": {
+          "local": "2026-11-12T21:45:00+00:00",
+          "utc": "2026-11-12T21:45:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "bd991f6889f2f9205aec53a3a93afbf838207bda37308c6561948909a64e6c7f",
+      "raw_sha256": "c5287eb18210d3557a01e348c3773b3aa27032d29f18a5fa0afd4e3369dbaf62"
+    },
+    {
+      "date": "2026-11-12",
+      "language": "en",
+      "kind": "x",
+      "channels": [
+        "x"
+      ],
+      "filename": "moneycoach_en_2026-11-12_x.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "x": {
+          "local": "2026-11-12T22:35:00+00:00",
+          "utc": "2026-11-12T22:35:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "ddf66d32ba342a1769b6856a26f9e0dcf0def5f0f75eca44942a88bb40fc4c60",
+      "raw_sha256": "ddf66d32ba342a1769b6856a26f9e0dcf0def5f0f75eca44942a88bb40fc4c60"
+    },
+    {
+      "date": "2026-11-13",
+      "language": "pt",
+      "kind": "vertical",
+      "channels": [
+        "tiktok"
+      ],
+      "filename": "moneycoach_pt_2026-11-13_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-13T22:15:00+00:00",
+          "utc": "2026-11-13T22:15:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "12f479bd7cb6632972e93468decf09072e2bf123ee7856baf0d68e684f0465f9",
+      "raw_sha256": "12f479bd7cb6632972e93468decf09072e2bf123ee7856baf0d68e684f0465f9"
+    },
+    {
+      "date": "2026-11-14",
+      "language": "en",
+      "kind": "vertical",
+      "channels": [
+        "tiktok"
+      ],
+      "filename": "moneycoach_en_2026-11-14_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-14T22:15:00+00:00",
+          "utc": "2026-11-14T22:15:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "0fd04177e8e29461808347eed701d6177406f749cbd99638e9610846e16c8727",
+      "raw_sha256": "0fd04177e8e29461808347eed701d6177406f749cbd99638e9610846e16c8727"
+    },
+    {
+      "date": "2026-11-15",
+      "language": "pt",
+      "kind": "vertical",
+      "channels": [
+        "tiktok"
+      ],
+      "filename": "moneycoach_pt_2026-11-15_vertical.png",
+      "approval": "APPROVED",
+      "schedule": {
+        "tiktok": {
+          "local": "2026-11-15T22:15:00+00:00",
+          "utc": "2026-11-15T22:15:00+00:00"
+        }
+      },
+      "status": "APPROVED_FINAL",
+      "sha256": "a9af8c534c5bb1bdc91235c8e7b8f09778ee04674a4a27a3f0f26ddb7e837d48",
+      "raw_sha256": "a9af8c534c5bb1bdc91235c8e7b8f09778ee04674a4a27a3f0f26ddb7e837d48"
+    }
+  ]
+}
